@@ -1,4 +1,4 @@
-Thank you to Broden and James for these tips and help
+Thank you to Brodie Frail and James for these tips  
 
 These notes are specifically tailored to BSc (Hons) Computing and similar courses
 
